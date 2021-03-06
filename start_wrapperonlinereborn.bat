@@ -168,5 +168,5 @@ title Loading...
 :: Open Wrapper in preferred browser
 	echo Opening Wrapper: Inline using included Chromium...
 	pushd utilities\ungoogled-chromium
-	start chrome.exe --user-data-dir=the_profile --app=https://wrapper.online
+	start chrome.exe --user-data-dir=the_profile --app=https://server-wrapper-online-reborn.herokuapp.com
 	popd
