@@ -85,7 +85,7 @@ if !ADMINREQUIRED!==y (
 			echo To do this, it must be started with Admin rights.
 			echo:
 			echo Close this window and re-open Wrapper: Offline as an Admin.
-			echo ^(right-click start_wrapper.bat and click "Run as Administrator"^)
+			echo ^(right-click start_wrapperonlinereborn.bat and click "Run as Administrator"^)
 			echo:
 			if !DRYRUN!==y (
 				echo ...yep, dry run is going great so far, let's skip the exit
