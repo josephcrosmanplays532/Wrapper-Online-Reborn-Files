@@ -1,4 +1,4 @@
-:: Launcher made by benson, adapted for Wrapper: Online usage by Spark.
+:: Launcher made by benson, adapted for Wrapper: Online. usage by Spark.
 
 title Launching
 
@@ -159,9 +159,9 @@ echo:
 
 :skip_dependency_install
 
-::::::::::::::::::::::
-:: Starting Wrapper ::
-::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+:: Starting Wrapper Online Reborn ::
+::::::::::::::::::::::::::::::::::::
 
 title Loading...
 
