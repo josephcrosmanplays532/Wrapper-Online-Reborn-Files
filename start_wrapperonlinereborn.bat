@@ -165,8 +165,8 @@ echo:
 
 title Loading...
 
-:: Open Wrapper in preferred browser
-	echo Opening Wrapper Onlien Reborn using included Chromium...
+:: Open Wrapper Online Reborn in preferred browser
+	echo Opening Wrapper Online Reborn using included Chromium...
 	pushd utilities\ungoogled-chromium
 	start chrome.exe --user-data-dir=the_profile --app=https://server-wrapper-online-reborn.herokuapp.com
 	popd
